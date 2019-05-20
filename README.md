@@ -2,7 +2,7 @@
 
 ## A basic webpage that displays an image gallery
 
-This webpage uses HTML, CSS and, Bootstrap.
+This webpage uses HTML, CSS, and Bootstrap.
 
 
 The site is available at the following link:
